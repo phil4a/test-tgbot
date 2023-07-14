@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const botToken = '6335351112:AAGp6GSdfI7h1Nvb_i0fnhjUEQ8TFKAZfJo';
-const webhookUrl = `http://185.18.55.156/webhook`;
+const webhookUrl = `http://185.18.55.156:443/webhook`;
 
 // Установка URL Webhook
 axios
